@@ -10,8 +10,5 @@ Permite realizar operações básicas como soma, subtração, multiplicação e 
 - CSS
 - JavaScript
 
-## Como usar
-Abra o arquivo `index.html` no navegador.
-
 ## Observação
 Projeto desenvolvido para fins de estudo.
