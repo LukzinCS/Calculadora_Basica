@@ -1,2 +1,2 @@
-# Projetos-Basicos
-Aqui tem projetos basicos usando html, css, javascript, etc
+# Calculadora Basica
+Aqui tem uma calculadora feita com JavaScript, HTML e CSS
